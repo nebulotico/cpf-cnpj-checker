@@ -11,7 +11,7 @@ namespace cpfcheck
     {
         static void Main(string[] args)
         {
-            Console.Title = "CPF-CNPJ Checker";
+            Console.Title = "Atomo -> CPF-CNPJ Checker";
 
             Console.ForegroundColor = ConsoleColor.DarkCyan;
             Console.WriteLine(@"
